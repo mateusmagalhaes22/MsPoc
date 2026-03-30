@@ -1,0 +1,12 @@
+[submodule "Auth"]
+	path = Auth
+	url = https://github.com/mateusmagalhaes22/MsPoc_Auth.git
+[submodule "Users"]
+	path = Users
+	url = https://github.com/mateusmagalhaes22/MsPoc_Users.git
+[submodule "Api_Gateway"]
+	path = Api_Gateway
+	url = https://github.com/mateusmagalhaes22/MsPoc_Api_Gateway.git
+[submodule "Discovery_Server"]
+	path = Discovery_Server
+	url = https://github.com/mateusmagalhaes22/MsPoc_server.git

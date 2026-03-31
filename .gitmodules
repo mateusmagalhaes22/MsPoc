@@ -10,3 +10,9 @@
 [submodule "Discovery_Server"]
 	path = Discovery_Server
 	url = https://github.com/mateusmagalhaes22/MsPoc_server.git
+[submodule "Config_Files"]
+	path = Config_Files
+	url = https://github.com/mateusmagalhaes22/MsPoc_Configs.git
+[submodule "Config_Server"]
+	path = Config_Server
+	url = https://github.com/mateusmagalhaes22/MsPoc_Config_Server.git
